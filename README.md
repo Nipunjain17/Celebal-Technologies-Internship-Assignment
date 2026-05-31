@@ -1,1 +1,1 @@
-# Celebal-Technologies-Internship-Assignments
+##If the Jupyter notebook isn't working, please refer to the book's PDF version
